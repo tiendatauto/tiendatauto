@@ -1,11 +1,9 @@
-# Hi, I’m Dat Nguyen! <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-
 <div id="header" align="center">
   <h1> Hi 👋 I'm Dat Nguyen!.</h1>
 
 </div>
 
-![Group 1](https://user-images.githubusercontent.com/58461444/206890835-73790b59-6e7c-445b-ae82-ce2c7eaa07d0.png)
+<!-- ![Group 1](https://user-images.githubusercontent.com/58461444/206890835-73790b59-6e7c-445b-ae82-ce2c7eaa07d0.png) -->
 
 <a href=https://www.linkedin.com/in/datnht/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=tiendatauto&color=blue">
 
@@ -13,13 +11,13 @@
 
 ## 💻 &nbsp; About Me :
 
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
+- I found my passion about developing programing since I was a student. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- I’m working as a Senior IT consultant and building large scale web applications.
+- My experience is mostly Front-End Developer.
 
-- Authoring and blogging about emerging technologies.
+- I am in the process of learning and gaining experience to become a fullstack developer in the future.
 
-- Share knowledge through meetups and twitter.
+- In addition, I also know how to design and edit videos. Besides, my hobbies are reading, listening to music, going to the gym and playing soccer on weekends.
 
 ---
 
