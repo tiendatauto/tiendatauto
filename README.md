@@ -7,7 +7,7 @@
 
 <a href=https://www.linkedin.com/in/datnht/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=tiendatauto&color=blue">
 
-👨 My name is Dat Nguyen and I'm Front-End Developer. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Dat Nguyen and I'm Front-End Developer. I'm from Vietnam and my goal is to become a fullstack developer.
 
 ## 💻 &nbsp; About Me :
 
